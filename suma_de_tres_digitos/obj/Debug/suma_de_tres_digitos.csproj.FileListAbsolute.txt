@@ -1,0 +1,6 @@
+c:\users\fl\documents\visual studio 2015\Projects\suma_de_tres_digitos\suma_de_tres_digitos\bin\Debug\suma_de_tres_digitos.exe.config
+c:\users\fl\documents\visual studio 2015\Projects\suma_de_tres_digitos\suma_de_tres_digitos\bin\Debug\suma_de_tres_digitos.exe
+c:\users\fl\documents\visual studio 2015\Projects\suma_de_tres_digitos\suma_de_tres_digitos\bin\Debug\suma_de_tres_digitos.pdb
+c:\users\fl\documents\visual studio 2015\Projects\suma_de_tres_digitos\suma_de_tres_digitos\obj\Debug\suma_de_tres_digitos.csprojResolveAssemblyReference.cache
+c:\users\fl\documents\visual studio 2015\Projects\suma_de_tres_digitos\suma_de_tres_digitos\obj\Debug\suma_de_tres_digitos.exe
+c:\users\fl\documents\visual studio 2015\Projects\suma_de_tres_digitos\suma_de_tres_digitos\obj\Debug\suma_de_tres_digitos.pdb
